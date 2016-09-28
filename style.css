@@ -1,0 +1,62 @@
+
+
+
+
+.header {
+	letter-spacing: 3px;
+	font-family: Monospace;
+	margin-top:30px;
+
+}
+
+.image {
+	margin-top:30px;
+	width:100px;
+	height:100px;
+}
+
+
+#box {
+	display:block;
+	width:100%;
+	margin-top:30px;
+	
+}
+
+
+#searchItem {
+	width:40%;
+	border-color: white;
+	letter-spacing: 2px;
+	padding-left:5px;
+}
+
+
+
+
+.btn {
+	background-color:#3f3f3f;
+}
+
+
+#content {
+	margin-top:30px;
+	width:100%;
+}
+
+.styleContent {
+	letter-spacing: 2px;
+}
+
+.fa {
+	color:black;
+}
+
+a {
+	color:black;
+}
+
+a:hover {
+	text-decoration: none;
+	color:#3f3f3f;
+}
